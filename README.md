@@ -1,4 +1,4 @@
-# TripAdvisor Hotel Analysis Dashboard
+![Bar graph for Total hotels by stars](https://github.com/user-attachments/assets/b7832ad1-9e4d-44d6-9603-c48e64d28565)# TripAdvisor Hotel Analysis Dashboard
 
 ## Project Overview
 This project showcases a Tableau dashboard created to analyze hotel data from Las Vegas. The dashboard provides valuable insights into various aspects of hotel performance, guest demographics, and service offerings, enabling hotel managers, travel agencies, and marketing teams to make data-driven decisions.
@@ -18,37 +18,43 @@ The dataset includes information on 21 hotels in Las Vegas, with 504 rows and 24
 ### 1. Total Hotels by Stars
 A bar chart displaying the distribution of hotels based on their star ratings, providing a clear view of the range of hotel options from luxury to budget.
 
-![Total Hotels by Stars](./path/to/Bar-graph-Total-Hotels-by-Stars.png)
+![Bar graph for Total hotels by stars](https://github.com/user-attachments/assets/c5a33526-2dd5-42a1-81cd-8145159aa5e2)
 
 ### 2. Total Users by Continent
 A bar chart showing the number of users from different continents, offering insights into the geographical distribution of guests.
 
-![Total Users by Continent](./path/to/Bar-graph-Total-Users-by-Continent.png)
+![Bar graph for Total users by continent](https://github.com/user-attachments/assets/99dd60e3-fb5d-4cb5-be24-f675dde30336)
+
 
 ### 3. Users by Period of Stay
 A circle chart visualizing the distribution of users by their period of stay, highlighting seasonal trends in hotel occupancy.
 
-![Users by Period of Stay](./path/to/Circle-chart-Users-by-Period-of-Stay.png)
+![Circle chart for users by period of Stay](https://github.com/user-attachments/assets/85e85349-5f55-4813-8e73-b421d95933c8)
+
 
 ### 4. Top 10 Hotels by Total Rooms
 A square chart that identifies the top 10 hotels in Las Vegas based on the total number of rooms, indicating which hotels are the largest.
 
-![Top 10 Hotels by Total Rooms](./path/to/Square-chart-Top-10-Hotels-by-Total-Rooms.png)
+![Square chart for Top 10 hotels by total rooms](https://github.com/user-attachments/assets/1ec13623-b040-498a-8eb7-cb8056ec6733)
+
 
 ### 5. Total Hotels by Additional Services
 A square chart categorizing hotels based on the additional services they offer, such as free Wi-Fi, exercise rooms, clubs, and basketball courts.
 
-![Total Hotels by Additional Services](./path/to/Square-chart-Total-Hotels-by-Additional-Services.png)
+![Square chart for Top 10 hotels by total rooms](https://github.com/user-attachments/assets/e003a107-5140-4f2c-a176-8c6430f46808)
+
 
 ### 6. Traveler Type
 A square chart providing insights into the types of travelers staying at the hotels, categorized as Couples, Families, Friends, Business, or Solo travelers.
 
-![Traveler Type](./path/to/Square-chart-Traveler-Type.png)
+![Square chart for Traveler type](https://github.com/user-attachments/assets/e421275a-c432-4147-9bfa-7e6f3a435f77)
+
 
 ### Final Dashboard
 The final dashboard integrates these visualizations into a cohesive interface, allowing users to explore the data interactively.
 
-![TripAdvisor Dashboard](./path/to/Trip-Advisor-Dashboard.png)
+![Trip Advisor Dashboard](https://github.com/user-attachments/assets/dff35df3-a687-413b-be4b-852f25f56207)
+
 
 ## Project Purpose
 The primary purpose of this dashboard is to assist hotel managers, travel agencies, and marketing teams in understanding guest preferences and hotel performance. The insights derived from this dashboard can drive decisions related to hotel services, marketing strategies, and guest experience improvements.
