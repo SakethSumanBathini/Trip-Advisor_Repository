@@ -78,6 +78,7 @@ The TripAdvisor Hotel Analysis Dashboard project has achieved several significan
 ## **5. Data Set**
 
 The dataset used in this project is crucial for analyzing various aspects of hotel performance. It includes data on 21 hotels in Las Vegas, with 504 rows and 24 fields. Key fields in the dataset include hotel name, number of rooms, hotel stars, user reviews, user continent, period of stay, and additional services offered (such as free Wi-Fi, exercise room, club, etc.).
+![Data Source ](https://github.com/user-attachments/assets/063147a1-d173-4964-a8f4-ba92205c85ef)
 
 ### **Data Characteristics**:
 - **Volume**: The dataset includes detailed information on 21 hotels, providing a comprehensive view of the Las Vegas hotel market.
